@@ -46,3 +46,14 @@ In summary, showcasing mentions on websites not directly related to your field c
 
 
 
+
+
+## Contribution for Humanitarian Issue #92
+
+This contribution addresses the issue: "OPERA DIST impact story: "Near-Real-Time Disturbance Alerts for All Vegetation Globally are Now Available on GFW""
+
+### Why this matters
+
+This improvement helps make a positive impact by addressing an issue in a project focused on sustainability or humanitarian goals.
+
+For more details see: https://github.com/NASA-IMPACT/snwg-sep-solution-value-repository/issues/92
